@@ -1,4 +1,4 @@
-## Oie eu sou o Ressiu, desenvolvedor de Front-end!
+## Opaa, eu sou o Ressiu!
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Ressiu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
